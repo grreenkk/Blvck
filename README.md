@@ -1,2 +1,2 @@
 # Blvck
-Code and documents for Blvck, the frontend of a fashion website 
+Code and documents for Blvck, the landing page of a fashion website 
